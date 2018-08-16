@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:paddingStart="4dp"
+    android:paddingTop="@dimen/vertical_margin"
     android:layout_marginTop="10dp"
     tools:context="com.example.prigui.androidtest.ui.home.MainMoviesActivity">
 
