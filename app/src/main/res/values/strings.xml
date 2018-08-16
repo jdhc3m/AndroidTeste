@@ -1,3 +1,18 @@
 <resources>
+
+    <!--PLACEHOLDERS LABELS-->
+    <string name="placeholder_empty_label">Não existem resultados.</string>
+    <string name="placeholder_error_label">Houve um erro inesperado.</string>
+    <string name="placeholder_error_button_label">Tentar novamente</string>
+
     <string name="app_name">Android Test</string>
+    <string name="movies">Filmes</string>
+    <string name="bar_navigation_home">Home</string>
+    <string name="bar_navigation_favorite">Favoritos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="video_format">Formatos de Video</string>
+    <string name="movie_top_title">Filmes</string>
+    <string name="favorite_top_title">Favoritos</string>
 </resources>
